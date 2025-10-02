@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/Dineshk2219684/DK-ADVANCE-TXT-UPLOADER
+    repo: https://github.com/Dineshk2219684/DK-ADVANCE-TXT-UPLOADER-for-render
     branch: main
     autoDeploy: false
     envVars:
